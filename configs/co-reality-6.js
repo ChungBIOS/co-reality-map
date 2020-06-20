@@ -58,13 +58,12 @@ const krabi_events = [
   },
   {
     start_minute: 180,
-    duration_minutes: 60,
+    duration_minutes: 120,
     host: "Alicia",
     name: "Melodic House",
     text: "",
     interactivity: "low",
   },
-  midnight_event,
   {
     start_minute: 300,
     duration_minutes: 180,
